@@ -25,13 +25,13 @@ The dataset contains telecom customer information such as:
 8. Churn status
 
 Technologies Used:
-•	Python
-•	Pandas
-•	NumPy
-•	Matplotlib
-•	Seaborn
-•	Scikit-learn
-•	Google Colab
+1. Python
+2. Pandas
+3. NumPy
+4. Matplotlib
+5. Seaborn
+6. Scikit-learn
+7. Google Colab
 
 Machine Learning Algorithms Used
 The following classification algorithms were implemented and compared:
@@ -43,18 +43,18 @@ The following classification algorithms were implemented and compared:
 
 Project Workflow
 1. Data Preparation
-•	Loaded the dataset
-•	Handled missing values
-•	Converted data types
-•	Encoded categorical variables
+  •	Loaded the dataset
+  •	Handled missing values
+  •	Converted data types
+  •	Encoded categorical variables
 2. Data Splitting
-•	Split dataset into:
-o	80% Training Data
-o	20% Testing Data
+  •	Split dataset into:
+     o.80% Training Data
+     o.20% Testing Data
 3. Feature Selection
-•	Correlation analysis
-•	Feature importance analysis
-•	Identification of churn influencing attributes
+  • Correlation analysis
+  •	Feature importance analysis
+  •	Identification of churn influencing attributes
 4. Model Training
 •	Trained multiple classification models
 •	Used selected features as input
